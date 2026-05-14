@@ -5,3 +5,4 @@ langgraph
 arxiv
 fpdf2
 python-dotenv
+langchain-groq
